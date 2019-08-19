@@ -1,2 +1,2 @@
 # hello-world
-my coding ideas
+I am a begginer in coding.
